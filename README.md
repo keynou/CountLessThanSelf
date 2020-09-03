@@ -30,7 +30,7 @@ node, since those were smaller nodes that were added before the current node
 and should be counted as the answer for that node. And then just put the
 number into the index that we just entered to the tree.
 What I want to show you in this code is:
-1) I correctly identify the algorithm.
-2) I use correct data structures and can manipulate them based on the needs.
-3) I can define my own data structures.
-4) The flow of the code I wrote is readable and understandable.
+1) Correctly identify the algorithm.
+2) Use correct data structures and manipulate them based on the needs.
+3) Define proper data structures.
+4) Have a readable and understandable code.
